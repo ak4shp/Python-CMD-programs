@@ -40,7 +40,6 @@ print("max oxygen level :", m)
 '''
 
 
-
 # DAY_01_2
 '''
 low = int(input())
@@ -54,7 +53,6 @@ for i in range(low, hi + 1):
     else:
         print("Invalid Input")
 '''
-
 
 
 # DAY_01_3
